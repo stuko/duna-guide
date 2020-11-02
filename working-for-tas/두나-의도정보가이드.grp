@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRP Version="2.0.0.1" Mode="0" TemplateObjectCnt="0">
+    <GrTxtBrushArr Size="2">
+        <GrTxtBrush Type="0" GradientType="0" Color="ffffffff" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+        <GrTxtBrush Type="0" GradientType="0" Color="ff680000" GradientColor1="ff000000" GradientColor2="ff000000" KeepRate="false" Alpha="255" IgnoreBgColor="false"/>
+    </GrTxtBrushArr>
+    <GrTxtOutlineArr Size="2">
+        <GrTxtOutline Color="ff000000" Ratio="0.10000000000000001"/>
+        <GrTxtOutline Color="00fcffff" Ratio="0.10000000000000001"/>
+    </GrTxtOutlineArr>
+    <GrTxtShadowArr Size="1">
+        <GrTxtShadow Color="00000000" ThickRatio="0.15000000596046448" Shadow_Type2="4"/>
+    </GrTxtShadowArr>
+    <GrTimelineViewMode Mode="13" output_width="1280" output_height="720"/>
+    <GrEncodingPath Path="D:\workspace\api\api_project\api-collector-frontend\public\mov\"/>
+    <GrVideoArr Size="1">
+        <GrVideo>
+            <GrVideoData FileName="D:\workspace\wayd-duna\duna-guide\working-for-tas\두나-의도정보등록하기.mp4" SegStart="160" SegEnd="47906" FadeType="0" ScreenTransformType="0" ScreenTransformTime="0" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterUseLookupFile="0" FilterUseVignetteFile="0"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+    </GrVideoArr>
+    <GrObjArr Size="49">
+        <GrObj Type="4">
+            <GrTxtData Title="챗봇 의도 정보 등록하기" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="0" TotalSeg="300" VideoIndex="0" EffectListID="1" PosX="50.651043" PosY="67.361107" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="13">
+                <GrTxtAtt Code="52311" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="48391" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="32" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="51032" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="46020" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="32" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="51221" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="48372" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="32" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="46321" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="47197" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="54616" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+                <GrTxtAtt Code="44592" FontSize="72" FontStyle="0" FaceName="Sandoll GothicNeo1Unicode 08 Eb" BrushID="0" ShadowID="0" OutlineID="0"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="1448" TotalSeg="52" VideoIndex="0" EffectListID="2" PosX="7.6171875" PosY="69.328705" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="대화 규칙(Rule)를 등록하는
+메뉴입니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="1448" TotalSeg="222" VideoIndex="0" EffectListID="3" PosX="64.973953" PosY="80.324074" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="24">
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44508" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52825" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="40" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="82" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="117" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="108" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="41" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47700" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45684" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="1710" TotalSeg="52" VideoIndex="0" EffectListID="4" PosX="33.463539" PosY="19.675926" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="대화 규칙( Rule )이름을 입력해 주세요
+챗봇의 대화 하는 시나리오에 해당합니다.
+
+예를 들면 : 아이폰 구매 시나리오
+
+직접 여기에 입력하지 않고, 쉽게 등록하는 방법이 있어요
+바로 &quot;의도정보&quot; 를 활용하는 방법입니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="1700" TotalSeg="399" VideoIndex="0" EffectListID="5" PosX="50.976563" PosY="66.898148" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="125">
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44508" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52825" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="40" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="82" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="117" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="108" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="41" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52311" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48391" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50724" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45817" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54633" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50696" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="58" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44396" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47588" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50724" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51649" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51217" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50668" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50506" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49789" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44172" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48169" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48277" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48148" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54876" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50857" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48169" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48277" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="2850" TotalSeg="52" VideoIndex="0" EffectListID="6" PosX="2.9947915" PosY="49.074074" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="이 메뉴를 누르시면
+대화 의도 정보를 관리 하시는 화면이
+나옵니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="2850" TotalSeg="222" VideoIndex="0" EffectListID="7" PosX="39.192711" PosY="63.888889" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="37">
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47700" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45684" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45572" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47476" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44288" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50741" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="대화의도 정보는
+
+대화의도그룹 &gt; 대화의도 &gt; 문장
+
+이라는 3단계로 정보를 관리 합니다.
+
+계속 지켜 보세요~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="3092" TotalSeg="222" VideoIndex="0" EffectListID="8" PosX="41.927086" PosY="60.879631" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="64">
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47353" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="62" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="62" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46972" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45800" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44288" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54633" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49549" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="먼저 대화 의도 그룹 정보를 
+만들어 보겠습니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="3340" TotalSeg="222" VideoIndex="0" EffectListID="9" PosX="37.369789" PosY="45.833336" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="27">
+                <GrTxtAtt Code="47676" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51200" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47353" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44192" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="3350" TotalSeg="52" VideoIndex="0" EffectListID="10" PosX="18.75" PosY="18.287037" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="3718" TotalSeg="52" VideoIndex="0" EffectListID="11" PosX="30.598959" PosY="28.00926" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="대화 의도 그룹 이름을 입력해 
+주세요.
+필수 항목이에요..." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="3718" TotalSeg="222" VideoIndex="0" EffectListID="12" PosX="42.578125" PosY="55.787041" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="34">
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47353" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54596" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54637" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47785" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="5283" TotalSeg="52" VideoIndex="0" EffectListID="13" PosX="59.895832" PosY="28.00926" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="해당 대화 의도 그룹안에
+대화 의도를 등록할께요..." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="5283" TotalSeg="222" VideoIndex="0" EffectListID="14" PosX="76.236984" PosY="48.726852" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="29">
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45817" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47353" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50504" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54624" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44760" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="5580" TotalSeg="52" VideoIndex="0" EffectListID="15" PosX="27.734375" PosY="28.935184" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="대화 의도 이름을 입력해 주세요
+필수 항목이에요...
+
+나머지 설명도 부탁요...." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="5580" TotalSeg="222" VideoIndex="0" EffectListID="16" PosX="43.489586" PosY="54.629631" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="46">
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54596" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54637" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47785" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47672" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49444" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47749" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48512" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53441" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="7279" TotalSeg="52" VideoIndex="0" EffectListID="17" PosX="34.114586" PosY="17.129629" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="대화 의도를 몇개 더 
+등록해 볼까요? ~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="7279" TotalSeg="222" VideoIndex="0" EffectListID="18" PosX="70.833328" PosY="57.870369" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="25">
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47751" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45908" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48380" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="63" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="이제 대화 의도가 2개가 되었네요.
+
+나중에 이 2개가 2개의 대화 시나리오가 됩니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="8806" TotalSeg="222" VideoIndex="0" EffectListID="19" PosX="59.960938" PosY="63.078701" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="48">
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46104" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50632" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45348" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51473" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50724" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46121" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="3번째 대화 의도입니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="10410" TotalSeg="222" VideoIndex="0" EffectListID="20" PosX="60.091145" PosY="70.71759" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="13">
+                <GrTxtAtt Code="51" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48264" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51704" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="10762" TotalSeg="52" VideoIndex="0" EffectListID="21" PosX="53.776043" PosY="44.675926" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="이제 대화의도에
+
+문장을 등록해 볼께요" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="10762" TotalSeg="168" VideoIndex="0" EffectListID="22" PosX="68.098953" PosY="65.393517" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="21">
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48380" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44760" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="11193" TotalSeg="52" VideoIndex="0" EffectListID="24" PosX="31.640625" PosY="20.601852" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="문장을 입력해 주세요
+
+이 문장은 사람들이
+챗봇에게 물어볼 예상 문장들입니다.
+
+예를 들면
+&quot;아이폰 가격이 얼마야?&quot;
+&quot;아이폰은 비싸요?&quot;
+
+이런 것들입니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="11193" TotalSeg="336" VideoIndex="0" EffectListID="25" PosX="74.479172" PosY="52.89352" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="88">
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51008" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49324" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46988" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52311" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48391" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44172" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47932" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48380" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50696" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49345" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50696" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44201" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47560" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50556" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="63" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51008" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48708" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49912" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="63" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47088" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44163" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="다른 대화 의도들도
+문장을 등록해 볼께요~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="13541" TotalSeg="336" VideoIndex="0" EffectListID="26" PosX="66.601563" PosY="64.814812" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="25">
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47480" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48380" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44760" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="이제 대화 규칙을 만들 수 있는
+모든 준비가 다 되었어요~~~
+
+아까 처음에 봤던 메뉴을 선택해 볼까요?" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="21525" TotalSeg="204" VideoIndex="0" EffectListID="27" PosX="48.372398" PosY="72.453705" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="58">
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44508" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52825" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47784" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46304" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51456" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48708" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46104" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50632" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52376" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48420" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45912" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47700" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45684" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49440" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53469" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48380" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="63" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="21525" TotalSeg="52" VideoIndex="0" EffectListID="28" PosX="6.640625" PosY="68.75" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="22073" TotalSeg="52" VideoIndex="0" EffectListID="29" PosX="18.489582" PosY="39.351852" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="아까 등록하신
+3개의 의도가 보이시죠?" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="22073" TotalSeg="336" VideoIndex="0" EffectListID="30" PosX="37.565102" PosY="65.046295" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="21">
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49888" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51424" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="63" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="22425" TotalSeg="52" VideoIndex="0" EffectListID="31" PosX="31.119791" PosY="18.75" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="의도정보 버튼을 누르시면 
+대화규칙(Rule)이 자동으로 생성되어 있어요
+
+여기에 규칙 이름을 입력하시고
+아래에 숫자가 보이실거에요
+
+그 숫자를 변경(문장의 일치 확률)해주세요
+기본 30 --&gt; 약 70 정도?" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="22425" TotalSeg="336" VideoIndex="0" EffectListID="32" PosX="68.75" PosY="60.30093" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="117">
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48260" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53948" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45572" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47476" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44508" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52825" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="40" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="82" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="117" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="108" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="101" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="41" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46041" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51004" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49373" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49457" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46104" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50668" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44508" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52825" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47492" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47000" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49707" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49892" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44144" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49707" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="40" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47928" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51109" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51068" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54869" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47456" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="41" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48376" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="62" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50557" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="55" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="63" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="22425" TotalSeg="52" VideoIndex="0" EffectListID="33" PosX="30.598959" PosY="25.694445" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="나머지들도 해주세요~~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="25047" TotalSeg="336" VideoIndex="0" EffectListID="34" PosX="57.35677" PosY="67.476852" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="14">
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47672" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="휴~~~
+조금만 더하면 됩니다.
+이제 챗봇이 답변해줄 내용을 등록해주면 됩니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="26260" TotalSeg="336" VideoIndex="0" EffectListID="35" PosX="51.627605" PosY="79.976852" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="44">
+                <GrTxtAtt Code="55092" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51312" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44552" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47564" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45908" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46121" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52311" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48391" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45813" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51460" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45236" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50857" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46121" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="26613" TotalSeg="52" VideoIndex="0" EffectListID="36" PosX="47.005211" PosY="61.805557" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="링크를 클릭해주세요~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="56" ApplyAll="0" Align="0" StartSeg="26613" TotalSeg="56" VideoIndex="0" EffectListID="37" PosX="51.757813" PosY="79.976852" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="13">
+                <GrTxtAtt Code="47553" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53356" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47533" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="27043" TotalSeg="52" VideoIndex="0" EffectListID="38" PosX="21.614582" PosY="24.074074" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="아이콘을 클릭하시면
+여러가지 메뉴가 나옵니다" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="27043" TotalSeg="336" VideoIndex="0" EffectListID="41" PosX="52.539063" PosY="56.828701" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="24">
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53364" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47533" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50668" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47084" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47700" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45684" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45208" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50741" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="27552" TotalSeg="52" VideoIndex="0" EffectListID="42" PosX="37.239586" PosY="76.388893" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="화살표가 가리키는
+2가지 정보를 입력해 주세요." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="27552" TotalSeg="336" VideoIndex="0" EffectListID="43" PosX="70.703125" PosY="50.462959" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="26">
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49332" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54364" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53412" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51221" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="27552" TotalSeg="52" VideoIndex="0" EffectListID="44" PosX="37.760414" PosY="59.953701" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="28413" TotalSeg="52" VideoIndex="0" EffectListID="45" PosX="38.671875" PosY="75.694443" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="이 곳은
+챗봇이 답변할 내용입니다.
+
+여러개를 등록해서 
+그중에 랜덤하게 답변하게 하려면
+위에 &quot;구분자&quot; 라고 되어 있는
+값으로 구분해서 입력하시면 됩니다." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="28413" TotalSeg="336" VideoIndex="0" EffectListID="46" PosX="73.567703" PosY="58.564812" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="87">
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44275" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51008" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52311" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48391" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45813" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54624" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45236" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50857" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50668" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47084" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47484" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44536" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51473" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47004" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45924" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44172" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45813" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48320" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44172" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47140" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50948" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44396" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48516" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51088" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="34" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46972" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46104" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44050" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51004" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44396" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48516" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51077" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47141" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49884" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46121" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="다른 규칙들도
+등록해 볼께요.~~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="31857" TotalSeg="336" VideoIndex="0" EffectListID="48" PosX="66.015625" PosY="57.40741" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="20">
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47480" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44508" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52825" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46020" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46321" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47197" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48380" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44760" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="지금까지 한 작업들을
+반영하기 위해서
+위에 화살표가 가리키는 
+아이콘을 눌러 주세요." GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="41954" TotalSeg="336" VideoIndex="0" EffectListID="49" PosX="66.015625" PosY="57.40741" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="47">
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44552" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51648" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54620" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51089" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50629" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46308" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48152" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50689" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44592" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50948" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50948" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50640" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54868" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49332" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54364" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44032" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47532" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53412" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45716" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50500" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45580" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47084" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51452" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49464" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="41954" TotalSeg="52" VideoIndex="0" EffectListID="50" PosX="84.895828" PosY="6.9444447" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="5">
+            <GrImgData Path="C:\ProgramData\GRETECH\GOMMix\clipart\animate\arrow.goma" Width="6" Height="9" KeepRate="1" Position="-1" StartSeg="42971" TotalSeg="52" VideoIndex="0" EffectListID="52" PosX="94.401047" PosY="85.648148" ApngImg="true" bTemplateObject="0" TemplateObjectID="-1" Tempo="1"/>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="제대로 적용이 되었다면
+채팅창을 통해서
+테스트 해보실 수 있어요~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="42971" TotalSeg="336" VideoIndex="0" EffectListID="53" PosX="66.015625" PosY="57.40741" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="38">
+                <GrTxtAtt Code="51228" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45824" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47196" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51201" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50857" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51060" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46104" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50632" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="47732" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52292" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54021" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="52285" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51012" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53685" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49436" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="13" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53580" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49828" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="53944" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54644" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="48372" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49892" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49688" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="32" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="51080" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50612" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="50836" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+        <GrObj Type="4">
+            <GrTxtData Title="수고하셨습니다.~~~~" GrEffectType="0" BackEffectType="1000" FirstEffectTime="0" BackEffectTime="100" ApplyAll="0" Align="0" StartSeg="47746" TotalSeg="336" VideoIndex="0" EffectListID="54" PosX="36.653648" PosY="60.069443" bTemplateObject="0" TemplateObjectID="-1" BrushType="0" GradientType="0" PlaceHolderType="0" Color="00000000" Tempo="1"/>
+            <GrTxtAttArr Size="12">
+                <GrTxtAtt Code="49688" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="44256" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="54616" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49512" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="49845" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45768" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="45796" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="46" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+                <GrTxtAtt Code="126" FontSize="44" FontStyle="1" FaceName="Sandoll CoffeenDonut 02 Medium" BrushID="1" ShadowID="0" OutlineID="1"/>
+            </GrTxtAttArr>
+        </GrObj>
+    </GrObjArr>
+    <GrAudioArr Size="0"/>
+    <GrEffectArr Size="0"/>
+</GRP>
